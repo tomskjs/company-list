@@ -82,5 +82,20 @@
                 </ul>
             </td>
         </tr>
+        <!-- interfaced -->
+        <tr>
+            <td>interfaced</td>
+            <td>2010</td>
+            <td>Smart TV приложения</td>
+            <td>js,html</td>
+            <td>
+                <a href="http://interfaced.ru/">interfaced.ru</a>
+            </td>
+            <td>
+                <ul>
+                    <li><a href="https://vk.com/interfaced">vk</a></li>
+                </ul>
+            </td>
+        </tr>
     </tbody>
 </table>

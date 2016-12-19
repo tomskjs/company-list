@@ -97,5 +97,17 @@
                 </ul>
             </td>
         </tr>
+        <!-- http://magdv.com/ -->
+        <tr>
+            <td>МАГ Девелопмент</td>
+            <td>2016</td>
+            <td>Веб приложения</td>
+            <td>React, Yii2, Zend 3, mobail app</td>
+            <td>
+                <a href="http://magdv.com/">magdv.com</a>
+            </td>
+            <td>
+            </td>
+        </tr>
     </tbody>
 </table>

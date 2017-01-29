@@ -109,5 +109,17 @@
             <td>
             </td>
         </tr>
+        <!-- online-media.ru -->
+        <tr>
+            <td>Online-media</td>
+            <td>07.12.2003</td>
+            <td>Веб-проекты, автоматизация</td>
+            <td>php, js/ts, html, БЭМ, less, docker, sql/nosql</td>
+            <td>
+                <a href="http://online-media.ru/">online-media.ru</a>
+            </td>
+            <td>
+            </td>
+        </tr>
     </tbody>
 </table>
